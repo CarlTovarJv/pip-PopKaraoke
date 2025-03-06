@@ -36,7 +36,6 @@ function addSong(songName, artistName, songUrl) {
             playList.removeChild(listSong); 
         });
 
-        playList.appendChild(listSong);
 
 
 }
